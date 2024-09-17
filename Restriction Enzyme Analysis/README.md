@@ -46,7 +46,7 @@ python3 script.py <fasta_file> <enzyme_file>
 
 ## Example Output
 
-``` bash
+``` sql
 Restriction enzyme analysis of sequence from FASTA file 
 Cutting with enzymes found in enzyme file.
 
