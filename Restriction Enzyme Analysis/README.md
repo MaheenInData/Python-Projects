@@ -14,8 +14,8 @@ This Python script performs a restriction enzyme analysis on a DNA sequence prov
 ## Installation
 
 ``` bash
-git clone https://github.com/yourusername/restriction-enzyme-analysis.git
-cd restriction-enzyme-analysis
+git clone https://github.com/MaheenInData/Restriction-Enzyme-Analysis.git
+cd Restriction-Enzyme-Analysis
 ```
 
 ## Usage
@@ -47,8 +47,8 @@ python3 script.py <fasta_file> <enzyme_file>
 ## Example Output
 
 ``` bash
-Restriction enzyme analysis of sequence from file example.fasta.
-Cutting with enzymes found in file enzymes.txt.
+Restriction enzyme analysis of sequence from FASTA file 
+Cutting with enzymes found in enzyme file.
 
 ---------------------------------------------------------------
 
